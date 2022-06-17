@@ -1,0 +1,19 @@
+segment_sources:
+  I735966FE:
+    type: origin_type
+    relation: translation
+    language: en
+  I2DBECD14:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  2efa61e070a14d06803588c00fb2deea:
+    I735966FE: 5771a76388d7434697a15df94f7c5711
+    I2DBECD14: 90752961e2124f90b2391bb3e3de39ca
+  9cfe870c48d74520b0f14d3fcf52e4f6:
+    I735966FE: 8c2b4ef029954295b2c7bf4e39d9fb6d
+    I2DBECD14: baa5daa3917d4941969d8a0d8b6b1e16
+  96b58b4412da45c68fdba57c6bb2ae2c:
+    I735966FE: a14d34e1d527459688aff30b8a1ba670
+    I2DBECD14: 805b47f66a9e4fa096ab2db3284fdb03
